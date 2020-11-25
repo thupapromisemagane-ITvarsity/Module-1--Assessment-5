@@ -1,0 +1,13 @@
+.galary img{
+    width:100%;
+}
+table{
+    width: 100%;
+    height: 80;
+    background-color: aliceblue;
+    font-family: inherit;
+    text-align: center;
+    text-decoration: none;
+    text-decoration-color: aqua;
+    
+}
